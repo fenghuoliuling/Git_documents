@@ -1,1 +1,1 @@
-a new world
+a new world under the GPL
